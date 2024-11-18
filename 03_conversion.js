@@ -20,3 +20,10 @@ console.log(booleanIsLoggedIn);
 // 1=>true;0=>flase
 //""=>false
 //"hitesh"=>true
+
+
+
+
+/******************operations********* */
+
+
